@@ -20,7 +20,7 @@ import React, {
     },
   };
 
-class RN_Demo extends Component {
+class AwesomeProject extends Component {
 
   constructor() {
     super();
@@ -136,4 +136,4 @@ const styles = StyleSheet.create({
 
 // AppRegistry.registerComponent('AnimationExample', () => AnimationExample);?
 
-AppRegistry.registerComponent('RN_Demo', () => RN_Demo);
+AppRegistry.registerComponent('AwesomeProject', () => AwesomeProject);
